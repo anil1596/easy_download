@@ -18,9 +18,7 @@ program to download videos from YouTube.
    
    `sudo apt-get install youtube-dl`
    
-2) clone this repo using
-
-   `git clone git@github.com:anil1596/easy_download.git`
+2) [clone/download](https://github.com/anil1596/easy_download)
 
 3) change your working directory to easy_download
 
