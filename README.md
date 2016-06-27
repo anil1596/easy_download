@@ -20,7 +20,7 @@ program to download videos from YouTube.
    
 2) clone this repo
 
-   `git clone `
+   `git clone git@github.com:anil1596/easy_download.git`
 
 3) change your working directory to easy_download
 
