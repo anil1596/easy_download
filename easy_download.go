@@ -98,7 +98,7 @@ func main() {
 	cmd := exec.Command("youtube-dl", videos_links[to_get])
 	_, err = cmd.Output()
 	check_error(err)
-	print("\n\n     SUCCESSFULLY DOWNLOAD\n")
+	print("\n\n DOWNLOAD  SUCCESSFUL\n")
 
 }
 
@@ -108,7 +108,7 @@ func check_error(err error) {
 	}
 }
 
-//to repair sretreived string
+//to repair retreived string
 func stringMinifier(in string) (out string) {
 	white := false
 	for _, c := range in {
